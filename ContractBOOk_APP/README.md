@@ -118,12 +118,3 @@ Give it a ⭐ on GitHub to support learning and improvement!
 
 ---
 
-## ✅ Next Steps (Recommended for You)
-I can help you:
-- Improve this project with **file handling**
-- Fix small bugs & formatting
-- Make it **resume-ready**
-- Add **screenshots to GitHub**
-- Convert this into an **advanced project**
-
-Just tell me 👍
